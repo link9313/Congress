@@ -1,0 +1,60 @@
+Congress Game Log File
+
+10/28/10 - 10:19 PM
+  - Added issue text, fixed new game screen, and added looping gameplay loading issues
+
+10/27/10 - 09:04 PM
+  - Continued saved game troubleshooting and fixed display of pop-up controls
+  - Added about button to main game screen
+  - Changed about information
+
+10/26/10 - 08:38 PM
+  - Added new style of saved game and started troubleshooting loading saved game
+
+10/25/10 - 09:11 PM
+  - Changed spending button to a load game button
+  - Added conversion of integers into strings
+  - Added new status text in top and bottom margins of game screen
+
+10/24/10 - 05:46 PM
+  - Added save and load game commands and implemented saved game format
+  - Extensively researched issues at ontheissues.org
+
+10/21/10 - 09:08 PM
+  - Added a new mode variable, to determine whether it is title screen or game screen
+  - Reorganized sub files and structure of main file
+
+10/18/10 - 03:23 PM
+  - Added fonts to main game folder, so FreeBASIC and xfont aren't required now
+  - Added sample title text to title background
+
+10/17/10 - 07:42 PM
+  - Added listboxes, popup window, load game dialog and new game mode
+  - Added new images for title and game
+  - Added game and title background images
+
+10/14/10 - 07:34 PM
+  - Added new buttons and messages
+  - Added about box and quit query
+  - Added window fade-in effect
+
+10/11/10 - 05:40 PM
+  - Added xfont library needed for FB_GUI
+  - Troubleshooted FB_GUI not working during compile
+
+10/8/10 - 07:45 PM
+  - Added new FB_GUI library for graphic gui controls
+
+10/6/10 - 08:22 PM
+  - Finalized screen mode and loaded sample background pic
+  - Printed info to be printed in about box later on
+
+10/5/10 - 09:24 PM
+  - Started programming variables and screen mode
+
+9/29/10 - 08:10 PM
+  - Added a sample display screen in text format (scraped later)
+
+9/12/10 - 07:36 PM
+  - Added log in current format
+  - Added GNU GPL License v2

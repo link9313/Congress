@@ -1,0 +1,14 @@
+	My project would entail the creation of a political text-style computer game where you are a member of Congress, either the House of Representatives or the Senate. The rest of the house has a randomly generated majority of Republicans or Democrats, and each seat is randomly generated as a Republican, Democrat. You must vote on laws proposed by Congress or the President, who is also randomly a Republican or Democrat. You gain ten points for each time you are relected to your office in the House, or thirty points when you are relected to the Senate. You can also be voted out early if you are acting against the interests of your randomly generated home state's population. The original source code of the game would be included and licensed under the GNU GPL version 2.
+	I hope to learn a lot about each party's past agendas and current agendas, plus a great deal about how laws are passed in Congress. A lot of research will be necessary for this game to have an accurate statement of each party's stance on government. I would need to learn a great deal about how Congress is usually run.
+	This would meet the AP standards because of the substantial research required to make the game accurate. It would also require a great amount of time to program all of the AI and other aspects of the program to accurately reflect each party's stance on issues, such as immigration, gay marriage, the economy, etc. This program would also show others what I learned through my research.
+
+
+- Score = Money earned
+
+- Spent on Three types of advertising, lasting so many turns
+	- TV Commercials
+	- Billboards
+	- Bumper stickers
+
+- Lose money for unpopular votes
+
